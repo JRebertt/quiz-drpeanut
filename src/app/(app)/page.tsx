@@ -310,7 +310,7 @@ export default function Quiz() {
     <div className="min-h-screen bg-[#EA580E] flex flex-col items-center justify-center p-4">
       {showConfetti && <ReactConfetti />}
       <Image
-        src="https://i.ibb.co/6wzV0VF/image-removebg-preview-51.png"
+        src="https://i.ibb.co/hBXFpYf/logo.png"
         alt="dr-peaunut Logo"
         width={200}
         height={100}
